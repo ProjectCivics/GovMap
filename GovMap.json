@@ -1,0 +1,29 @@
+{
+  "name": "US GOVERNMENT",
+  "value": 100,
+  "children": [
+  {
+    "name": "Legislative",
+    "value": 75,
+    "children":[
+    {"name": "Senate", "value": 25},
+    {"name": "House of Representatives ", "value": 25}
+    ]
+    },
+  {
+    "name": "Executive",
+    "value": 75,
+    "children":[
+    {"name": "President", "value": 25}
+    ]
+    },
+  {
+    "name": "Judicial",
+    "value": 75,
+    "children":[
+    {"name": "Supreme Court", "value": 25}
+    ]
+  }
+
+  ]
+}
