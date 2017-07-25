@@ -7,7 +7,34 @@
     "value": 75,
     "children":[
     {"name": "Senate", "value": 25},
-    {"name": "House of Representatives ", "value": 25}
+    {"name": "House of Representatives ",
+       "value": 25,
+        "children":[
+         {"name": "Architect of the Capitol",
+          "value": 25,
+          "children":[
+            {"name": "U.S. Botanic Garden", "value": 25},
+            {"name": "U.S. Capitol Visitor Center", "value": 25}
+            ]},
+        {"name": "Capitol Police", "value": 25},
+        {"name": "Congressional Budget Office", "value": 25},
+        {"name": "Library of Congress",
+          "value": 25,
+          "children":[
+            {"name": "Congressional Research Service", "value": 25}
+            ]},
+        {"name": "Office of Complice", "value": 25},
+        {"name": "Government Accountability Office", "value": 25},
+        {"name": "Government Publishing Office", "value": 25},
+        {"name": "House Office of Inspectector General", "value": 25},
+        {"name": "House Office of the Clerk", "value": 25},
+        {"name": "Stennis Center  for Public Service", "value": 25}
+         ]},
+    {"name": "Court Services and Offender Supervision Agency for the District of Columbia", "value": 25},
+    {"name": "Joint Congressional Committee on Inaugural Ceremonies", "value": 25},
+    {"name": "Medicaid and CHIP Payment and Access Commission", "value": 25},
+    {"name": "Medicare Payment Advisory Commission", "value": 25},
+    {"name": "Open World Leadership Center", "value": 25}
     ]
     },
   {
