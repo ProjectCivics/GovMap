@@ -86,6 +86,43 @@
     {"name": "Sentencing Commission", "value": 25},
     {"name": "Tax Court", "value": 25}
     ]
+  },
+  {
+    "name": "Executive (White House) Departments",
+    "value": 75,
+    "children":[
+      {"name": "Department of Agriculture",
+       "value": 25,
+       "children":[
+         {"name": "Agricultural Research Service", "value": 25},
+         {"name": "Center for Nutrition Policy and Promotion", "value": 25},
+         {"name": "Economic Research Service", "value": 25},
+         {"name": "Farm Service Agency", "value": 25},
+         {"name": "Food and Nutrition Service", "value": 25},
+         {"name": "Food Safety and Inspection Service", "value": 25},
+         {"name": "Foreign Agricultural Service", "value": 25},
+         {"name": "Forest Service", "value": 25},
+         {"name": "Marketing and Regulatory Programs",
+           "value": 25,
+           "children":[
+             {"name": "Agricultural Marketing Service", "value": 25},
+             {"name": "Animal and Plant Health Inspection Service", "value": 25},
+             {"name": "Grain Inspection, Packers, and Stockyard Administration", "value": 25}
+             ]},
+         {"name": "National Agricultural Statistics Service", "value": 25},
+         {"name": "Nationsl Institute  of Food and Agriculture", "value": 25},
+         {"name": "National Resources Conservation Service", "value": 25},
+         {"name": "Risk Management Agency", "value": 25},
+         {"name": "Rural Development",
+            "value": 25,
+            "children":[
+              {"name": "Rural Business and Cooperative Programs", "value": 25},
+              {"name": "Rural  Housing Service", "value": 25},
+              {"name": "Rural Utilities Service", "value": 25}
+              ]}
+         ]},
+      {"name": "Department of Commerce", "Value": 75}
+    ]
   }
   ]
 }
