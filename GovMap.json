@@ -7,21 +7,84 @@
     "value": 75,
     "children":[
     {"name": "Senate", "value": 25},
-    {"name": "House of Representatives ", "value": 25}
+    {"name": "House of Representatives ",
+       "value": 25,
+        "children":[
+         {"name": "Architect of the Capitol",
+          "value": 25,
+          "children":[
+            {"name": "U.S. Botanic Garden", "value": 25},
+            {"name": "U.S. Capitol Visitor Center", "value": 25}
+            ]},
+        {"name": "Capitol Police", "value": 25},
+        {"name": "Congressional Budget Office", "value": 25},
+        {"name": "Library of Congress",
+          "value": 25,
+          "children":[
+            {"name": "Congressional Research Service", "value": 25}
+            ]},
+        {"name": "Office of Complice", "value": 25},
+        {"name": "Government Accountability Office", "value": 25},
+        {"name": "Government Publishing Office", "value": 25},
+        {"name": "House Office of Inspectector General", "value": 25},
+        {"name": "House Office of the Clerk", "value": 25},
+        {"name": "Stennis Center  for Public Service", "value": 25}
+         ]},
+    {"name": "Court Services and Offender Supervision Agency for the District of Columbia", "value": 25},
+    {"name": "Joint Congressional Committee on Inaugural Ceremonies", "value": 25},
+    {"name": "Medicaid and CHIP Payment and Access Commission", "value": 25},
+    {"name": "Medicare Payment Advisory Commission", "value": 25},
+    {"name": "Open World Leadership Center", "value": 25}
     ]
     },
   {
     "name": "Executive",
     "value": 75,
     "children":[
-    {"name": "President", "value": 25}
+    {"name": "President", "value": 25},
+    {"name": "White House", "value": 25, "children":[
+      {"name": "Council of Economic Advisers", "value": 25},
+      {"name": "Council on Environmental Quality", "value": 25},
+      {"name": "Domestic Policy Council",
+         "value": 25,
+         "children":[
+        {"name": "National AIDS Policy Office", "value": 25}
+        ]},
+      {"name": "General Services Administration",
+        "value": 25,
+        "children":[
+          {"name": "USAGov", "value": 25}
+          ]},
+      {"name": "National Economic Council", "value": 25},
+      {"name": "National Security Council", "value": 25},
+      {"name": "Office of Management and Budget", "value": 25},
+      {"name": "Office of National Drug Control Policy", "value": 25},
+      {"name": "Office of Science and Technology Policy", "value": 25},
+      {"name": "Trade Representative", "value": 25},
+      {"name": "White House Office of Administration", "value": 25}
+    ]}
     ]
     },
   {
     "name": "Judicial",
     "value": 75,
     "children":[
-    {"name": "Supreme Court", "value": 25}
+    {"name": "Supreme Court",
+      "value": 25,
+      "children":[
+        {"name": "Court of Appeals for the Federal Circuit", "value": 25}
+        ]},
+    {"name": "Administration Office of the U.S. Courts", "value": 25},
+    {"name": "Bankruptcy Courts", "value": 25},
+    {"name": "Circuit Courts of Appeal", "value": 25},
+    {"name": "Court of Appeals for Veterans' Claims", "value": 25},
+    {"name": "Court of Appeals for the Armed Forces", "value": 25},
+    {"name": "Court of Federal Claims", "value": 25},
+    {"name": "Court of International Trade", "value": 25},
+    {"name": "Federal Judicial Center", "value": 25},
+    {"name": "Judicial Panel on Multidistrict Litigation", "value": 25},
+    {"name": "Sentencing Commission", "value": 25},
+    {"name": "Tax Court", "value": 25}
     ]
   }
   ]
